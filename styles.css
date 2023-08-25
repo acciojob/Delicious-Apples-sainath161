@@ -1,5 +1,13 @@
 /* your code here */
+.container{
+	justify-content:center;
+	display:flex;
+	align-items:center;
+	height: 36rem
+}
 button{
 	border:none;
-	border-radius:10px;
+}
+.photo-container{
+	
 }
